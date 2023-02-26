@@ -2,7 +2,7 @@
 
 #Arduino Code is also provided
 
-#To locally host this web app on your machine you need to do these things.
+#To locally host this web app on your machine you need to follow these steps.
 
 - Extract/Copy this folder to "htdocs" of XAMPP (You can find it on C drive).
 
