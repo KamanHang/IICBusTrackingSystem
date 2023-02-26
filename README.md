@@ -1,5 +1,7 @@
 # IICBusTrackingSystem
 
+#Arduino Code is also provided
+
 #To locally host this web app on your machine you need to do these things.
 
 - Extract/Copy this folder to "htdocs" of XAMPP (You can find it on C drive).
